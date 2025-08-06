@@ -1,0 +1,4 @@
+name : k.kiranmai
+course: 3rd year BCA
+Learned : I have learned github basics how to added the files and 
+create the files .this was learned in my hackthon class furtherly i have learned deeply
